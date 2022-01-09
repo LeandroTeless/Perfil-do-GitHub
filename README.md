@@ -1,7 +1,7 @@
 ## Olá! Eu sou o LeandroTeless
 
-- 👀 Tenho interesse em trabalhar como programador...
-- 🌱 Atualmente sou iniciante em JavaScript...
+- 👀 Tenho interesse em trabalhar como programador!
+- 🌱 Atualmente sou iniciante!
 
 <div
   <a href="https://github.com/LeandroTeless">
