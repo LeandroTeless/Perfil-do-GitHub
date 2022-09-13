@@ -1,6 +1,6 @@
 ## Olá! Eu sou o LeandroTeless
 
-- 👀 Tenho interesse em trabalhar como programador!
+- 👀 Tenho interesse em trabalhar como Programador Web!
 - 🌱 Atualmente sou iniciante!
 
 <div
